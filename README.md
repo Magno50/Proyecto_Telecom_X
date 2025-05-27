@@ -18,5 +18,5 @@ El notebook contiene las siguientes secciones:
 - `Proyecto_Final.ipynb`: Notebook con todo el análisis detallado.
 - `README.md`: Este archivo de resumen del proyecto.
 
-## 👩‍💻 Autor
-Proyecto realizado por [Tu Nombre Aquí] para el curso de Ciencia de Datos en Alura LATAM.
+## Autor
+Proyecto realizado por Magnolia Silva para el curso de Ciencia de Datos en Alura LATAM.
